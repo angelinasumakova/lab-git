@@ -1,6 +1,7 @@
 package ai152.sumakova;
 
 // Данный класс отвечает за позицию в чеке
+// Class Item
 public class Item {
 
     private String name;
