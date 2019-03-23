@@ -1,6 +1,7 @@
 package ai152.sumakova;
 
-// Class Mainn
+// Class Main
+// branch new_f
 public class Main {
 
     public static void main(String[] args) {
