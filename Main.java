@@ -1,5 +1,6 @@
 package ai152.sumakova;
 
+// Class Main
 public class Main {
 
     public static void main(String[] args) {
