@@ -2,6 +2,7 @@ package ai152.sumakova;
 
 // Class Main
 // branch new_f
+// branch master
 public class Main {
 
     public static void main(String[] args) {
